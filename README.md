@@ -1,7 +1,6 @@
 - Hi, I’m David Martel cloutier.
 - I come from Quebec in Montreal, I speak French and a little English.
 - I’m interested in front-end web development.
-- I’m currently learning HTML, CSS and Javascript.
 - I'm looking to collaborate on client-side websites (front-end).
 - How to reach me to my email: davidmartelc16@hotmail.com
 
