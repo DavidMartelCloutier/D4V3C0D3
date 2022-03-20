@@ -1,7 +1,6 @@
 - Hi, I’m David Martel cloutier.
 - I come from Quebec in Montreal, I speak French and a little English.
-- I’m interested in front-end web development.
-- I'm looking to collaborate on client-side websites (front-end).
+- I’m interested in front-end web development and backend with python(Django).
 - How to reach me to my email: davidmartelc16@hotmail.com
 
 <!---
