@@ -1,6 +1,6 @@
 - Hi, I’m David Martel cloutier.
 - I come from Quebec in Montreal, I speak French and a little English.
-- I’m interested development Python.
+- I’m interested development Python and web frontend(html,css and javascript).
 - How to reach me to my email: davidmartelc16@hotmail.com
 
 <!---
